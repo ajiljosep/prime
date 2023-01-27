@@ -1,4 +1,4 @@
-num = int(input(" enter the number: "))
+num = int(input(" Enter the Number: "))
 
 flag = False
 
@@ -11,6 +11,6 @@ elif num > 1:
             flag = True
             break
     if flag:
-        print(num, "is not a prime number")
+        print(num, "is not a prime Number")
     else:
-        print(num, "is a prime number")
+        print(num, "is a prime Number")
